@@ -1,10 +1,10 @@
-5fa666cffcde9fe7c343610acd6c6209 *DESCRIPTION
+37e8739c1d8a9590382f8233a0e1495e *DESCRIPTION
 d99f737d43867ff9c43584824bef9e6a *NAMESPACE
-e481405583bcda3d8682d3cf68875903 *NEWS.md
+a5727703d27dd2520bd4bd105b070e38 *NEWS.md
 4cd7950b4c6a6bf73e25b31ce4113dc5 *R/get_active_users.R
 50ad7f8503d167ad495297b5baf86cb9 *R/get_categories_and_events.R
-1c5dca7880a3720859d3241ac8d2822c *R/get_client_metadata.R
-a2f0d2736bc2124e24b9635cc2f75fc7 *R/get_daily_client_properties.R
+8194d0b9cc0c0b16624b71ebf2c9ec60 *R/get_client_metadata.R
+144a811666d387c393831e2997ca4ebd *R/get_daily_client_properties.R
 a4171d76cfd88ed5f732572e10574279 *R/get_new_users.R
 751ec7d54e0c1d27cb6351670770322b *R/get_product_properties.R
 e9651f8b6e393dea8b8813874bea730b *R/get_raw_data_files.R
@@ -15,8 +15,8 @@ ec96ea90ac55195fe6802ff47991bb69 *README.md
 f4b9ad29141c6db932ff961fa671257e *man/check_status.Rd
 2a7a7f8e2d0d9bfe09d66e6f8e0d1308 *man/get_active_users.Rd
 8cbf350b919f2d93d6e18aa658c70000 *man/get_categories_and_events.Rd
-eb1502676bbed8a8b59338295d343feb *man/get_client_metadata.Rd
-e855af5e8dcdcdfe0c7d69d41023dad3 *man/get_daily_client_properties.Rd
+7577053b2abe4ad0733b64a3ca7a7afc *man/get_client_metadata.Rd
+3ffb75a96d1df8791a7a26b0369dce0a *man/get_daily_client_properties.Rd
 c7210db01655e13fa7fe977ad3ede56a *man/get_new_users.Rd
 024edaf703227e377976f719e6d37aab *man/get_product_properties.Rd
 af7a098fcc4ca17d12235f9ec79fa2b0 *man/get_raw_data_files.Rd

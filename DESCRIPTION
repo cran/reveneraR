@@ -1,6 +1,6 @@
 Package: reveneraR
 Title: Connect to Your 'Revenera' (Formerly 'Revulytics') Data
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Chris",
            family = "Umphlett",
@@ -27,9 +27,9 @@ Imports: dplyr (>= 1.0.0), magrittr (>= 1.5), jsonlite (>= 1.6.1),
         (>= 1.0.0), tibble (>= 1.0.3)
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-02-03 19:24:12 UTC; c.umphlett
+Packaged: 2022-08-06 11:14:29 UTC; c.umphlett
 Author: Chris Umphlett [aut, cre],
   Avinash Panigrahi [aut]
 Maintainer: Chris Umphlett <christopher.umphlett@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-02-03 19:40:02 UTC
+Date/Publication: 2022-08-06 11:30:05 UTC
